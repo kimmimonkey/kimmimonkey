@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kimmimonkey
-- 🌱 Soon to be Northcoders graduate, where I've studied HTML, CSS and JavaScript, as well as some GDScript. 
+- 🌱 Northcoders Graduate, working as an Automation and AI Tester
 - 💞️ I’m looking to collaborate on projects that improve quality of life for people, with special interest in those with disabilities and the LGBTQIA++ community. 
 - 📫 How to reach me: LinkedIn: www.linkedin.com/in/kimberleymuncey
 - 😄 Pronouns: they / them
